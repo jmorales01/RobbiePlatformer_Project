@@ -10,6 +10,6 @@
 
 #### Images
 
-![](../RobbiePlatformer_Project/images/dev-player.png)
+[url=https://postimg.cc/ThvF96R2][img]https://i.postimg.cc/ThvF96R2/dev-player.png[/img][/url]
 
 > Primer avance del juego realizado en unity.
