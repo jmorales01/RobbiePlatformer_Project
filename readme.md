@@ -10,6 +10,6 @@
 
 #### Images
 
-https://github.com/jmorales01/RobbiePlatformer_Project/blob/master/images/dev-player.png
+![](https://github.com/jmorales01/RobbiePlatformer_Project/blob/master/images/dev-player.png)
 
 > Primer avance del juego realizado en unity.
