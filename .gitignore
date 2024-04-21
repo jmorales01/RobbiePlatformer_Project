@@ -1,0 +1,7 @@
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.xcuserstate
+*.log
