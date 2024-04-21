@@ -4,9 +4,26 @@
 
 `<link>` : <https://www.youtube.com/@academiadevideojuegos>
 
+
+#### Controller
+
+## Controles
+
+- **Movimiento:**
+  - <kbd>←</kbd>: Moverse hacia la izquierda.
+  - <kbd>→</kbd>: Moverse hacia la derecha.
+
+- **Saltar:**
+  - <kbd>Tecla "TAB"</kbd>: Saltar.
+
+- **Agacharse:**
+  - <kbd>Tecla "CTRL"</kbd>: Agacharse.
+
+
 #### Resources
 
 ![Unity 2023](https://img.shields.io/badge/Unity-2023.2.19f1-green)
+
 
 #### Images
 
